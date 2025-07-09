@@ -1,0 +1,6 @@
+Contact: security@focusflow.app
+Expires: 2025-12-31T23:59:59.000Z
+Encryption: https://focusflow.app/pgp-key.txt
+Acknowledgments: https://focusflow.app/security-acknowledgments
+Policy: https://focusflow.app/security-policy
+Hiring: https://focusflow.app/careers

@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /admin/
+Disallow: /api/
+
+# Specific crawl delays for different bots
+User-agent: Googlebot
+Crawl-delay: 1
+
+User-agent: Bingbot
+Crawl-delay: 2
+
+User-agent: Slurp
+Crawl-delay: 3
+
+# Sitemap location
+Sitemap: https://focusflow.app/sitemap.xml
+
+# Additional sitemaps for better indexing
+Sitemap: https://focusflow.app/sitemap-pages.xml
+Sitemap: https://focusflow.app/sitemap-images.xml

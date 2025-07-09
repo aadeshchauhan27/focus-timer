@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "user-1",
+      "email": "demo@focusflow.com",
+      "password": "password123",
+      "displayName": "Demo User",
+      "photoURL": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+    },
+    {
+      "id": "user-2", 
+      "email": "test@example.com",
+      "password": "test123",
+      "displayName": "Test User",
+      "photoURL": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+    },
+    {
+      "id": "user-3",
+      "email": "admin@focusflow.com", 
+      "password": "admin123",
+      "displayName": "Admin User",
+      "photoURL": "https://images.pexels.com/photos/1040880/pexels-photo-1040880.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+    }
+  ],
+  "sessions": []
+}

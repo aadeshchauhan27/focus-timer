@@ -1,0 +1,17 @@
+/* TEAM */
+Developer: FocusFlow Team
+Contact: hello@focusflow.app
+Location: Global
+
+/* THANKS */
+Thanks to all users who help improve FocusFlow
+Special thanks to the open-source community
+
+/* SITE */
+Last update: 2024/01/15
+Language: English / Español / Français / Deutsch / हिन्दी
+Doctype: HTML5
+IDE: VS Code
+Standards: HTML5, CSS3, ES6+
+Components: React, Next.js, TypeScript
+Software: Next.js, Tailwind CSS, Firebase

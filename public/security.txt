@@ -1,0 +1,25 @@
+Contact: security@focusflow.app
+Expires: 2025-12-31T23:59:59.000Z
+Encryption: https://focusflow.app/pgp-key.txt
+Acknowledgments: https://focusflow.app/security-acknowledgments
+Policy: https://focusflow.app/security-policy
+Hiring: https://focusflow.app/careers
+
+# Security Policy
+We take security seriously. If you discover a security vulnerability, 
+please report it to security@focusflow.app.
+
+# Scope
+This security policy applies to:
+- focusflow.app (main application)
+- All subdomains of focusflow.app
+- Mobile applications (if any)
+
+# Out of Scope
+- Third-party services and integrations
+- Social engineering attacks
+- Physical security issues
+
+# Response Time
+We aim to respond to security reports within 24 hours and 
+provide regular updates on the status of your report.
